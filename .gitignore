@@ -1,0 +1,6 @@
+venv2
+node_modules
+.project
+.pydevproject
+.settings
+data
